@@ -6,7 +6,7 @@ Go to this site https://mineblaze.ru
 then, save the file by clicking ctrl+s
 after you save it, download sublime text
 and after that open the file with sublime
-and change the code to the code below
+and change the code to the code below, after you did that save the file with ctrl+s and open the file.
 
 
 
